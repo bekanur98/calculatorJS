@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac404184-3b3e-4cd5-9c88-09568f9199ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fgHK4JpUSY5KKl0CwQ7omxD3EZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac404184-3b3e-4cd5-9c88-09568f9199ca" name="Default Changelist" comment="" />
+      <created>1596632748910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596632748910</updated>
+      <workItem from="1596632749977" duration="4351000" />
+      <workItem from="1596705455494" duration="2438000" />
+      <workItem from="1596799484351" duration="4461000" />
+      <workItem from="1597038701084" duration="3200000" />
+      <workItem from="1598445989189" duration="6934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596800392418">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1366.768/0.27.1366.741@0.27.1366.741" timestamp="1596800392418" />
+    <state x="416" y="132" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596800460410">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="132" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1366.0.1366.768/0.27.1366.741@0.27.1366.741" timestamp="1596800460410" />
+    <state x="318" y="160" width="719" height="445" key="EditFileWatcherDialog" timestamp="1596800711917">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="318" y="160" width="719" height="445" key="EditFileWatcherDialog/1366.0.1366.768/0.27.1366.741@0.27.1366.741" timestamp="1596800711917" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597203783213">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1597203783213" />
+    <state x="172" y="18" key="SettingsEditor" timestamp="1596800722636">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="18" key="SettingsEditor/1366.0.1366.768/0.27.1366.741@0.27.1366.741" timestamp="1596800722636" />
+    <state x="347" y="168" key="run.anything.popup" timestamp="1596800243925">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="168" key="run.anything.popup/1366.0.1366.768/0.27.1366.741@0.27.1366.741" timestamp="1596800243925" />
+  </component>
+</project>
